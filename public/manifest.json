@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React-Puppeteer-Jest",
+  "name": "Test from puppeteer and jest",
   "icons": [
     {
       "src": "favicon.ico",
